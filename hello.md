@@ -17,4 +17,5 @@
 - 병합 대상 브랜치가 헤드로부터 시작된 경우
 - 아주 쉽게 병합 가능 = Fast-forward
 - version3 커밋 한번 더
-- version3 커밋 한번 더
+- version3 커밋 한번 더더
+- version3 커밋 한번 더더더
